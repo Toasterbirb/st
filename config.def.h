@@ -521,5 +521,3 @@ static char ascii_printable[] =
 #define UNDERCURL_CAPPED 2
 // Active style
 #define UNDERCURL_STYLE UNDERCURL_SPIKY
-
-const int undercurl_height_offset = 0;
